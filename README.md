@@ -24,13 +24,13 @@ I had a problem of losing my progress everytime I restarted/shutdown my juicebox
 ## Solutions
 
 * Level 1 Difficulty challenges
-    - [Confidential Document](/Level%20/confidential-doc.md)
-    - [DOM XSS](/Level%20/dom-xss.md)
-    - [Error Handling](/Level%20/error-handling.md)
-    - [Missing Encoding](/Level%20/missing-encoding.md)
-    - [Outdated Whitelist](/Level%20/outdated-whitelist.md)
-    - [Privacy Policy](/Level%20/privacy-policy.md)
-    - [Reflected XSS](/Level%20/reflected-xss.md)
-    - [Repetitive Registration](/Level%20/repeat-register.md)
-    - [Score Board](/Level%20/score-board.md)
-    - [Zero Stars](/Level%20/zero-stars.md)
+    - [Confidential Document](/Level%201/confidential-doc.md)
+    - [DOM XSS](/Level%201/dom-xss.md)
+    - [Error Handling](/Level%201error-handling.md)
+    - [Missing Encoding](/Level%201/missing-encoding.md)
+    - [Outdated Whitelist](/Level%201/outdated-whitelist.md)
+    - [Privacy Policy](/Level%201/privacy-policy.md)
+    - [Reflected XSS](/Level%201/reflected-xss.md)
+    - [Repetitive Registration](/Level%201/repeat-register.md)
+    - [Score Board](/Level%201/score-board.md)
+    - [Zero Stars](/Level%201/zero-stars.md)
