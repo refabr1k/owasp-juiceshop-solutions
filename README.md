@@ -17,10 +17,20 @@ I had a problem of losing my progress everytime I restarted/shutdown my juicebox
 
 ![](save_progress_cookie.png)
 
-3. **Pause** your VM instead of shutting them down so that you could resume progress next time.
+3. **Pause** your VM instead of shutting them down.
 4. To continue next time, all you need to do is just start back up the VM instance. Using your browser's cookie editor (eg. Chrome's **EditThisCookie**) and add the value for `continueCode` back.
 5. Accessing your VM's ip eg. `http://ipaddress:3000` you can now pickup from where you left off!
  
 ## Solutions
 
-In progress
+* Level 1 Difficulty challenges
+    - [Confidential Document](/Level%20/confidential-doc.md)
+    - [DOM XSS](/Level%20/dom-xss.md)
+    - [Error Handling](/Level%20/error-handling.md)
+    - [Missing Encoding](/Level%20/missing-encoding.md)
+    - [Outdated Whitelist](/Level%20/outdated-whitelist.md)
+    - [Privacy Policy](/Level%20/privacy-policy.md)
+    - [Reflected XSS](/Level%20/reflected-xss.md)
+    - [Repetitive Registration](/Level%20/repeat-register.md)
+    - [Score Board](/Level%20/score-board.md)
+    - [Zero Stars](/Level%20/zero-stars.md)
