@@ -1,7 +1,7 @@
 ## Outdated Whitelist
 ### Let us redirect you to one of our crypto currency addresses which are not promoted any longer.
 
-Using @hakluke's tool [hakrawler](https://github.com/hakluke/hakrawler) we can quickly search all endpoints such as 'redirects' by simply running 
+Using [@hakluke](https://twitter.com/hakluke/)'s tool [hakrawler](https://github.com/hakluke/hakrawler) we can quickly search all endpoints such as 'redirects' by simply running 
 
 `hakrawler -url http://127.0.0.1:3000 -linkfinder | grep redirect`
 
