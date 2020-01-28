@@ -26,7 +26,7 @@ I had a problem of losing my progress everytime I restarted/shutdown my juicebox
 * Level 1 Difficulty challenges
     - [Confidential Document](../master/level%201/confidential-doc.md)
     - [DOM XSS](../master/level%201/dom-xss.md)
-    - [Error Handling](../master/level%201error-handling.md)
+    - [Error Handling](../master/level%201/error-handling.md)
     - [Missing Encoding](../master/level%201/missing-encoding.md)
     - [Outdated Whitelist](../master/level%201/outdated-whitelist.md)
     - [Privacy Policy](../master/level%201/privacy-policy.md)
