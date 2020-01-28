@@ -1,5 +1,5 @@
 ## Score Board 
-Challenge: Find the carefully hidden 'Score Board' page.
+### Challenge: Find the carefully hidden 'Score Board' page.
 
 * Using Chrome > Right Click on home page > Inspect > Sources
 * Look at `main-es-2015.js` and click the `{}` icon ([pretty-print](https://developers.google.com/web/tools/chrome-devtools/javascript/pretty-print))
