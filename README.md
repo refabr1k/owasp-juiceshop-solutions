@@ -30,8 +30,27 @@
 
 ### Level 3 Star challenge
 
-- [ ] [API-only XSS](../master/Level%203/admin-section.md)
-- [ ] [API-only XSS](../master/Level%203/admin-section.md)
+- [ ] [API-only XSS](../master/Level%203/.md)
+- [ ] [Admin Registration](../master/Level%203/.md)
+- [ ] [Bjoern's Favorite Pet](../master/Level%203/.md)
+- [ ] [CAPTCHA Bypass](../master/Level%203/.md)
+- [ ] [Client-side XSS Protection](../master/Level%203/.md)
+- [ ] [Database Schema](../master/Level%203/.md)
+- [ ] [Forged Feedback](../master/Level%203/.md)
+- [ ] [Forged Review](../master/Level%203/.md)
+- [ ] [GDPR Data Erasure](../master/Level%203/.md)
+- [ ] [Login Amy](../master/Level%203/.md)
+- [ ] [Login Bender](../master/Level%203/.md)
+- [ ] [Login Jim](../master/Level%203/.md)
+- [ ] [Manipulate Basket](../master/Level%203/.md)
+- [ ] [Payback Time](../master/Level%203/.md)
+- [ ] [Privacy Policy Inspection](../master/Level%203/.md)
+- [ ] [Product Tampering](../master/Level%203/.md)
+- [ ] [Reset Jim's Password](../master/Level%203/.md)
+- [ ] [Upload Size](../master/Level%203/.md)
+- [x] [Upload Type](../master/Level%203/.md)
+- [ ] [XXE Data Access](../master/Level%203/.md)
+
 
 
 
