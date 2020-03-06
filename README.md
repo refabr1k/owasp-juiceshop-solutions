@@ -48,7 +48,7 @@
 - [ ] [Product Tampering](../master/Level3/.md)
 - [ ] [Reset Jim's Password](../master/Level3/.md)
 - [ ] [Upload Size](../master/Level3/.md)
-- [x] [Upload Type](../master/Level3/.md)
+- [x] [Upload Type](../master/Level3/upload-type.md)
 - [ ] [XXE Data Access](../master/Level3/.md)
 
 
