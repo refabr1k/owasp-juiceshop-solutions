@@ -24,17 +24,18 @@
 - [x] [Login Admin](../master/Level2/login-admin.md)
 - [ ] [Login MC SafeSearch]()
 - [ ] [Password Strength]()
+- [ ] [Reflected XSS]()
 - [x] [Security Policy](../master/Level2/security-policy.md)
 - [x] [View Basket](../master/Level2/view-basket.md)
 - [x] [Weird Crypto](../master/Level2/wierd-crypto.md)
 
 ### Level 3 Star challenge
 
-- [ ] [API-only XSS](../master/Level3/.md)
-- [ ] [Admin Registration](../master/Level3/.md)
-- [ ] [Bjoern's Favorite Pet](../master/Level3/.md)
+- [x] [API-only XSS](../master/Level3/api-only-xss.md)
+- [x] [Admin Registration](../master/Level3/admin-registration.md)
+- [x] [Bjoern's Favorite Pet](../master/Level3/bjoern-fav-pet.md)
 - [ ] [CAPTCHA Bypass](../master/Level3/.md)
-- [ ] [Client-side XSS Protection](../master/Level3/.md)
+- [x] [Client-side XSS Protection](../master/Level3/client-side-xss.md)
 - [ ] [Database Schema](../master/Level3/.md)
 - [ ] [Forged Feedback](../master/Level3/.md)
 - [ ] [Forged Review](../master/Level3/.md)
