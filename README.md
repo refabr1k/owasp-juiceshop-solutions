@@ -19,12 +19,11 @@
 
 - [x] [Admin Section](../master/Level2/admin-section.md)
 - [x] [Classic Stored XSS](../master/Level2/classic-stored-xss.md)
-- [ ] [Deprecated Interface]()
+- [x] [Deprecated Interface](../master/Level2/deprecated-interface.md)
 - [x] [Five-Star Feedback](../master/Level2/five-star-feedback.md)
 - [x] [Login Admin](../master/Level2/login-admin.md)
 - [ ] [Login MC SafeSearch]()
-- [ ] [Password Strength]()
-- [ ] [Reflected XSS]()
+- [x] [Password Strength](../master/Level2/password-strength.md)
 - [x] [Security Policy](../master/Level2/security-policy.md)
 - [x] [View Basket](../master/Level2/view-basket.md)
 - [x] [Weird Crypto](../master/Level2/wierd-crypto.md)
@@ -34,7 +33,7 @@
 - [x] [API-only XSS](../master/Level3/api-only-xss.md)
 - [x] [Admin Registration](../master/Level3/admin-registration.md)
 - [x] [Bjoern's Favorite Pet](../master/Level3/bjoern-fav-pet.md)
-- [ ] [CAPTCHA Bypass](../master/Level3/.md)
+- [x] [CAPTCHA Bypass](../master/Level3/captcha-by-pass.md)
 - [x] [Client-side XSS Protection](../master/Level3/client-side-xss.md)
 - [ ] [Database Schema](../master/Level3/.md)
 - [ ] [Forged Feedback](../master/Level3/.md)
@@ -50,7 +49,7 @@
 - [ ] [Reset Jim's Password](../master/Level3/.md)
 - [ ] [Upload Size](../master/Level3/.md)
 - [x] [Upload Type](../master/Level3/upload-type.md)
-- [ ] [XXE Data Access](../master/Level3/.md)
+- [x] [XXE Data Access](../master/Level3/xxe-data-access.md)
 
 
 
