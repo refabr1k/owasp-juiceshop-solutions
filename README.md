@@ -35,7 +35,7 @@
 - [x] [Bjoern's Favorite Pet](../master/Level3/bjoern-fav-pet.md)
 - [x] [CAPTCHA Bypass](../master/Level3/captcha-by-pass.md)
 - [x] [Client-side XSS Protection](../master/Level3/client-side-xss.md)
-- [ ] [Database Schema](../master/Level3/.md)
+- [x] [Database Schema](../master/Level3/database-schema.md)
 - [ ] [Forged Feedback](../master/Level3/.md)
 - [ ] [Forged Review](../master/Level3/.md)
 - [ ] [GDPR Data Erasure](../master/Level3/.md)
