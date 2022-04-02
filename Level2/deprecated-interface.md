@@ -5,7 +5,7 @@ Using Chrome `Inspect` > `Sources` > `main-es2015.js`. Search using `Ctrl + F` f
 
 Observe that the `allowedMimeType` actually allows `xml` type files. If you navigate to `Complaint` form and click upload file, you will notice that the only files allowed are `pdf` and `zip` files. 
 
-![](b2b_xml.png)
+![](../screens/b2b_xml.png)
 
 Choosing `All Files (*.*)` in the upload form and submit a `xml` file to complete challenge. 
 

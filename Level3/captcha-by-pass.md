@@ -8,15 +8,15 @@ Firstly, while using burp to capture HTTP requests > Customer feed back form > s
 
 We observe that the following parameters are required `captchaId` which is an incremental id for each "challenge" and a `captcha` for the answer to the challenge.
 
-![captcha1.png](captcha1.png)
+![captcha1.png](../screens/captcha1.png)
 
 If you check the Developer tools XHR requests, observe that the `/rest/captcha` endpoint is call when the feedback page loads, which provides a new feedback captcha (they even provide the answer too!)
 
-![captcha2.png](captcha2.png)
+![captcha2.png](../screens/captcha2.png)
 
 We have all the information needed to write our script, using python, we can test out the GET request to this endpoint and able to extract the values we need to form a POST request. 
 
-![captcha3.png](captcha3.png)
+![captcha3.png](../screens/captcha3.png)
 
 Finally writing the script to loop it through 10 times so that we can complete this challenge.
 
@@ -54,5 +54,5 @@ In short, this script does the following things:
 3. Create a post request adding HTTP data such as headers (defining content type) and converting our object to json.
 4. printing the results of the script. Type 2 responses indicating successful.
 
-![captcha4.png](captcha4.png)
+![captcha4.png](../screens/captcha4.png)
 

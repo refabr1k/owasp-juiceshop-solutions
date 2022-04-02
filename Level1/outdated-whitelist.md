@@ -5,7 +5,7 @@ Using [@hakluke](https://twitter.com/hakluke/)'s tool [hakrawler](https://github
 
 `hakrawler -url http://127.0.0.1:3000 -linkfinder | grep redirect`
 
-![](hakrawler_search_js.png)
+![](../screens/hakrawler_search_js.png)
 
 There is a particular redirect url used that is `redirect?to=https://blockchain.info/address/1AbKfgvw9psQ41NbLi8kufDQTezwG8DRZm`
 

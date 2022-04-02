@@ -1,5 +1,5 @@
 ## DOM XSS
-### Challenge: Perform a DOM XSS attack with <iframe src="javascript:alert(`xss`)">.
+### Challenge: Perform a DOM XSS attack with \<iframe src=\"javascript:alert\(\`xss\`\)\"\>.
 
 Enter ``<iframe src="javascript:alert(`xss`)">`` at search box.
 

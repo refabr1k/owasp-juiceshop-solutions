@@ -1,5 +1,5 @@
 ## Reflected XSS
-### Challenge: Perform a reflected XSS attack with <iframe src="javascript:alert(`xss`)">
+### Challenge: Perform a reflected XSS attack with \<iframe src=\"javascript\:alert\(\`xss\`\)\"\>
 
 Login as user and click `Account` > `Orders & Payment` > `Track Orders` > type a search string eg. `test`
 

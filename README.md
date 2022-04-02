@@ -1,19 +1,34 @@
 # OWASP juice shop solutions
 
-## ## Solutions
+Revisited to prepare for OSWE! https://github.com/juice-shop/juice-shop. 
+
+## Installation
+
+
+1.  Install [Docker](https://www.docker.com)
+2.  Run `docker pull bkimminich/juice-shop`
+3.  Run `docker run --rm -p 3000:3000 bkimminich/juice-shop`
+4.  Browse to [http://localhost:3000](http://localhost:3000) (on macOS and Windows browse to [http://192.168.99.100:3000](http://192.168.99.100:3000) if you are using docker-machine instead of the native docker installation)
+
+
+## Solutions
 
 ### Level 1 Star challenge
-
+- [ ] [Bonus Payload]()
+- [ ] [Bully Chatbot]()
 - [x] [Confidential Document](../master/Level1/confidential-doc.md)
 - [x] [DOM XSS](../master/Level1/dom-xss.md)
 - [x] [Error Handling](../master/Level1/error-handling.md)
+- [x] [Exposed Metrics](Level1/exposed-metrics.md))
 - [x] [Missing Encoding](../master/Level1/missing-encoding.md)
 - [x] [Outdated Whitelist](../master/Level1/outdated-whitelist.md)
 - [x] [Privacy Policy](../master/Level1/privacy-policy.md)
-- [x] [Reflected XSS](../master/Level1/reflected-xss.md)
 - [x] [Repetitive Registration](../master/Level1/repeat-register.md)
 - [x] [Score Board](../master/Level1/score-board.md)
 - [x] [Zero Stars](../master/Level1/zero-stars.md)
+
+Old
+- [x] [Reflected XSS](../master/Level1/reflected-xss.md)
 
 ### Level 2 Star challenge
 
@@ -50,8 +65,3 @@
 - [ ] [Upload Size](../master/Level3/.md)
 - [x] [Upload Type](../master/Level3/upload-type.md)
 - [x] [XXE Data Access](../master/Level3/xxe-data-access.md)
-
-
-
-
-

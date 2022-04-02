@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "26a2d43e1f33a203",
+    "type": "split",
+    "children": [
+      {
+        "id": "c08bbb87d5f24b3f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Level1/exposed-metrics.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb8e98dd74166fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "833dfe681426cbef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0297d30e8f1e64f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7bfc4e17a6f2aaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6da3421467929768",
+    "type": "split",
+    "children": [
+      {
+        "id": "f61535ea5f02d342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1565a162330faa77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Level1/exposed-metrics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c08bbb87d5f24b3f",
+  "lastOpenFiles": [
+    "Level1/exposed-metrics.md",
+    "README.md",
+    "Level1/error-handling.md",
+    "Level1/missing-encoding.md",
+    "Level1/confidential-doc.md",
+    "Level1/dom-xss.md",
+    "Level1/outdated-whitelist.md",
+    "Level1/privacy-policy.md",
+    "Level3/xxe-data-access.md",
+    "Level3/upload-type.md"
+  ]
+}
