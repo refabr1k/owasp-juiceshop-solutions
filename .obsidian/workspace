@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Level1/exposed-metrics.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level1/exposed-metrics.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "c08bbb87d5f24b3f",
   "lastOpenFiles": [
-    "Level1/exposed-metrics.md",
     "README.md",
+    "Level1/exposed-metrics.md",
     "Level1/error-handling.md",
     "Level1/missing-encoding.md",
     "Level1/confidential-doc.md",
