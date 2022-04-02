@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "Level1/outdated-whitelist.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Level1/outdated-whitelist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,14 @@
   },
   "active": "c08bbb87d5f24b3f",
   "lastOpenFiles": [
+    "Level1/outdated-whitelist.md",
+    "Level1/privacy-policy.md",
+    "Level1/missing-encoding.md",
     "README.md",
     "Level1/exposed-metrics.md",
     "Level1/error-handling.md",
-    "Level1/missing-encoding.md",
     "Level1/confidential-doc.md",
     "Level1/dom-xss.md",
-    "Level1/outdated-whitelist.md",
-    "Level1/privacy-policy.md",
     "Level3/xxe-data-access.md",
     "Level3/upload-type.md"
   ]
