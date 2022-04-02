@@ -19,7 +19,7 @@ Revisited to prepare for OSWE! https://github.com/juice-shop/juice-shop.
 - [x] [Confidential Document](../master/Level1/confidential-doc.md)
 - [x] [DOM XSS](../master/Level1/dom-xss.md)
 - [x] [Error Handling](../master/Level1/error-handling.md)
-- [x] [Exposed Metrics](Level1/exposed-metrics.md))
+- [x] [Exposed Metrics](Level1/exposed-metrics.md)
 - [x] [Missing Encoding](../master/Level1/missing-encoding.md)
 - [x] [Outdated Whitelist](../master/Level1/outdated-whitelist.md)
 - [x] [Privacy Policy](../master/Level1/privacy-policy.md)
