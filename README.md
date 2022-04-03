@@ -14,7 +14,7 @@ Revisited to prepare for OSWE! https://github.com/juice-shop/juice-shop.
 ## Solutions
 
 ### Level 1 Star challenge
-- [ ] [Bonus Payload]()
+- [x] [Bonus Payload](../master/Level1/dom-xss.md)
 - [ ] [Bully Chatbot]()
 - [x] [Confidential Document](../master/Level1/confidential-doc.md)
 - [x] [DOM XSS](../master/Level1/dom-xss.md)
