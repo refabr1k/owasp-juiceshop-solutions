@@ -13,7 +13,7 @@ Revisited to prepare for OSWE! https://github.com/juice-shop/juice-shop.
 
 ## Solutions
 
-### Level 1 Star challenge
+### Level 1 Star challenge :star:
 - [x] [Bonus Payload](../master/Level1/dom-xss.md) - `Improper Input Validation`
 - [x] [Bully Chatbot](../master/Level1/bully-chatbot.md)
 - [x] [Confidential Document](../master/Level1/confidential-doc.md) - `Sensitive Data Exposure`
@@ -30,7 +30,7 @@ Revisited to prepare for OSWE! https://github.com/juice-shop/juice-shop.
 Old
 - [x] [Reflected XSS](../master/Level1/reflected-xss.md) - `XSS`
 
-### Level 2 Star challenge
+### Level 2 Star challenge :star::star:
 
 - [x] [Admin Section](../master/Level2/admin-section.md) - `Broken Access Control`
 - [x] [Deprecated Interface](../master/Level2/deprecated-interface.md) - `Security Misconfiguration`
@@ -47,7 +47,7 @@ Old
 Old
 - [x] [Classic Stored XSS](../master/Level2/classic-stored-xss.md) - `XSS`
 
-### Level 3 Star challenge
+### Level 3 Star challenge :star::star::star:
 
 - [x] [Admin Registration](../master/Level3/admin-registration.md) - `Improper Input Validation`
 - [x] [Bjoern's Favorite Pet](../master/Level3/bjoern-fav-pet.md) - `Broken Authentication`
@@ -55,8 +55,8 @@ Old
 - [x] [CSRF](../master/Level3/csrf.md) - `Broken Access Control`
 - [x] [Database Schema](../master/Level3/database-schema.md) - `Injection`
 - [x] [Deluxe Fraud](../master/Level3/deluxe-fraud.md) - `Improper Input Validation`
-- [ ] [Forged Feedback](../master/Level3/.md) - `Broken Access Control`
-- [ ] [Forged Review](../master/Level3/.md) - `Broken Access Control`
+- [x] [Forged Feedback](../master/Level3/forged-feedback.md) - `Broken Access Control`
+- [x] [Forged Review](../master/Level3/forged-feedback.md)) - `Broken Access Control`
 - [ ] [GDPR Data Erasure](../master/Level3/.md)  - `Broken Authentication`
 - [ ] [Login Amy](../master/Level3/.md)  - `Sensitive Data Exposure`
 - [ ] [Login Bender](../master/Level3/.md) - `Injection`
@@ -73,3 +73,6 @@ Old
 - [x] [API-only XSS](../master/Level3/api-only-xss.md) - `XSS`
 - [x] [Client-side XSS Protection](../master/Level3/client-side-xss.md) - `XSS`
 - [x] [XXE Data Access](../master/Level3/xxe-data-access.md) - `XXE`
+
+
+### Level 4 Star challenge :star::star::star:

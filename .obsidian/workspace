@@ -89,6 +89,7 @@
   "active": "c08bbb87d5f24b3f",
   "lastOpenFiles": [
     "README.md",
+    "Level3/Forged Feedback.md",
     "Level3/deluxe-fraud.md",
     "screens/view_basket.png",
     "Level3/csrf.md",
@@ -96,7 +97,6 @@
     "Level3/database-schema.md",
     "Level3/admin-registration.md",
     "Level3/captcha-by-pass.md",
-    "Level2/five-star-feedback.md",
-    "Level2/deprecated-interface.md"
+    "Level2/five-star-feedback.md"
   ]
 }
