@@ -9,3 +9,4 @@ If you intercept the HTTP requests (eg. burpsuite) when clicking `Your Basket` y
 ![](../screens/view_basket.png)
 
 Modify it with the user's basket identifier that you like to view and you will complete the challenge. eg. `other_hacker@hacker.com` basket id value is `12` we will modify the HTTP request in burp to  `GET /rest/basket/12` and forwarding it.
+

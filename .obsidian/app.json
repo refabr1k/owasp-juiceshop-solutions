@@ -3,5 +3,6 @@
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "screens",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

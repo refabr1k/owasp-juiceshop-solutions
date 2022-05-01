@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Level1/outdated-whitelist.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Level1/outdated-whitelist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c08bbb87d5f24b3f",
   "lastOpenFiles": [
+    "Level1/outdated-whitelist.md",
     "README.md",
-    "Level3/Forged Feedback.md",
-    "Level3/deluxe-fraud.md",
     "screens/view_basket.png",
+    "Level3/product-tampering.md",
+    "Level3/add-to-other-basket.md",
+    "Level3/payback-time.md",
+    "Level2/view-basket.md",
+    "screens/basket-1.png",
     "Level3/csrf.md",
-    "Level3/client-side-xss.md",
-    "Level3/database-schema.md",
-    "Level3/admin-registration.md",
-    "Level3/captcha-by-pass.md",
-    "Level2/five-star-feedback.md"
+    "Level3/deluxe-fraud.md"
   ]
 }

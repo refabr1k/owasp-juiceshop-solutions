@@ -58,13 +58,13 @@ Old
 - [x] [Forged Feedback](../master/Level3/forged-feedback.md) - `Broken Access Control`
 - [x] [Forged Review](../master/Level3/forged-feedback.md)) - `Broken Access Control`
 - [ ] [GDPR Data Erasure](../master/Level3/.md)  - `Broken Authentication`
-- [ ] [Login Amy](../master/Level3/.md)  - `Sensitive Data Exposure`
-- [ ] [Login Bender](../master/Level3/.md) - `Injection`
-- [ ] [Login Jim](../master/Level3/.md) - `Injection`
-- [ ] [Manipulate Basket](../master/Level3/.md) - `Broken Access Control`
-- [ ] [Payback Time](../master/Level3/.md) - `Improper Input Validation`
+- [x] [Login Amy](../master/Level3/login-user-account.md)  - `Sensitive Data Exposure` 
+- [x] [Login Bender](../master/Level3/login-user-account.md) - `Injection`
+- [x] [Login Jim](../master/Level3/login-user-account.md) - `Injection`
+- [x] [Manipulate Basket](../master/Level3/add-to-other-basket.md) - `Broken Access Control`
+- [x] [Payback Time](../master/Level3/payback-time.md) - `Improper Input Validation`
 - [ ] [Privacy Policy Inspection](../master/Level3/.md) - `Security through Obscurity`
-- [ ] [Product Tampering](../master/Level3/.md) - `Broken Access Control`
+- [x] [Product Tampering](../master/Level3/product-tampering.md) - `Broken Access Control`
 - [ ] [Reset Jim's Password](../master/Level3/.md) - `Broken Authentication`
 - [ ] [Upload Size](../master/Level3/.md) - `Improper Input Validation`
 - [x] [Upload Type](../master/Level3/upload-type.md) - `Improper Input Validation`
@@ -75,4 +75,4 @@ Old
 - [x] [XXE Data Access](../master/Level3/xxe-data-access.md) - `XXE`
 
 
-### Level 4 Star challenge :star::star::star:
+### Level 4 Star challenge :star::star::star::star:
