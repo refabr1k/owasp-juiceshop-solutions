@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Level1/outdated-whitelist.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level1/outdated-whitelist.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c08bbb87d5f24b3f",
   "lastOpenFiles": [
-    "Level1/outdated-whitelist.md",
-    "Level1/bully-chatbot.md",
-    "Level1/dom-xss.md",
     "README.md",
-    "Level1/privacy-policy.md",
-    "Level1/missing-encoding.md",
-    "Level1/exposed-metrics.md",
-    "Level1/error-handling.md",
-    "Level1/confidential-doc.md",
-    "Level3/xxe-data-access.md"
+    "Level3/deluxe-fraud.md",
+    "screens/view_basket.png",
+    "Level3/csrf.md",
+    "Level3/client-side-xss.md",
+    "Level3/database-schema.md",
+    "Level3/admin-registration.md",
+    "Level3/captcha-by-pass.md",
+    "Level2/five-star-feedback.md",
+    "Level2/deprecated-interface.md"
   ]
 }
