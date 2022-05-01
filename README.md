@@ -56,7 +56,7 @@ Old
 - [x] [Database Schema](../master/Level3/database-schema.md) - `Injection`
 - [x] [Deluxe Fraud](../master/Level3/deluxe-fraud.md) - `Improper Input Validation`
 - [x] [Forged Feedback](../master/Level3/forged-feedback.md) - `Broken Access Control`
-- [x] [Forged Review](../master/Level3/forged-feedback.md)) - `Broken Access Control`
+- [x] [Forged Review](../master/Level3/forged-feedback.md) - `Broken Access Control`
 - [ ] [GDPR Data Erasure](../master/Level3/.md)  - `Broken Authentication`
 - [x] [Login Amy](../master/Level3/login-user-account.md)  - `Sensitive Data Exposure` 
 - [x] [Login Bender](../master/Level3/login-user-account.md) - `Injection`

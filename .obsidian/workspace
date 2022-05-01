@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Level1/outdated-whitelist.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level1/outdated-whitelist.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "c08bbb87d5f24b3f",
   "lastOpenFiles": [
-    "Level1/outdated-whitelist.md",
     "README.md",
+    "Level1/outdated-whitelist.md",
     "screens/view_basket.png",
     "Level3/product-tampering.md",
     "Level3/add-to-other-basket.md",
