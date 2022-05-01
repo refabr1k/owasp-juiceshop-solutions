@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Level3/forged feedback.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Level3/forged feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "c08bbb87d5f24b3f",
   "lastOpenFiles": [
+    "Level3/forged feedback.md",
     "README.md",
     "Level1/outdated-whitelist.md",
     "screens/view_basket.png",
@@ -96,7 +97,6 @@
     "Level3/payback-time.md",
     "Level2/view-basket.md",
     "screens/basket-1.png",
-    "Level3/csrf.md",
-    "Level3/deluxe-fraud.md"
+    "Level3/csrf.md"
   ]
 }
