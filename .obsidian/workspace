@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "smb.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "smb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "c08bbb87d5f24b3f",
   "lastOpenFiles": [
+    "smb.md",
     "README.md",
     "Level4/xss-header.md",
     "Level4/no-sql-sleep.md",
@@ -96,7 +97,6 @@
     "Level4/server-side-xss.md",
     "Level2/wierd-crypto.md",
     "Level2/view-basket.md",
-    "Level2/reflected-xss.md",
-    "Level3/upload-type.md"
+    "Level2/reflected-xss.md"
   ]
 }
